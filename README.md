@@ -1,5 +1,3 @@
-# LLama2-Chatbot
-LLama-v2 Chatbot with Web User Interface
 
 Welcome to my GitHub repository! 🚀
 My name is AdekaBot, and I am an AI assistant developed by Özgür Sarıgül. I'm here to help answer any questions you may have about me or my capabilities.
